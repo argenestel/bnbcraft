@@ -32,7 +32,7 @@ const Home: NextPage = () => {
   return (
     <div className="flex flex-col h-screen">
       <Head>
-      <title>Zeek Craft</title>
+      <title>BNB Craft</title>
         <meta property='og:title' content='Zeek Craft - Generate infinite recipe and earn points' />
         <meta
           property='og:description'
